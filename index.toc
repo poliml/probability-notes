@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}Probability and Statistics}{5}{}%
+\contentsline {section}{\numberline {1.3}Basics of Statistics}{5}{}%
+\contentsline {subsection}{\numberline {1.3.1}Normal Probability Distribution}{7}{}%
+\contentsline {subsection}{\numberline {1.3.2}Sampling Distribution}{7}{}%
+\contentsline {subsection}{\numberline {1.3.3}Confidence Interval}{8}{}%
+\contentsline {subsection}{\numberline {1.3.4}Hypothesis Testing}{10}{}%
+\contentsline {subsection}{\numberline {1.3.5}Confidence Interval for Two Populations}{11}{}%
+\contentsline {subsection}{\numberline {1.3.6}Chi-square Test}{11}{}%
+\contentsline {subsection}{\numberline {1.3.7}Simple Linear Regression Model}{12}{}%
+\contentsline {section}{\numberline {1.4}Basics of set theory}{13}{}%
+\contentsline {subsection}{\numberline {1.4.1}Sequences and Their Limits}{14}{}%
+\contentsline {subsubsection}{Nondecreasing Sequences}{14}{}%
+\contentsline {subsubsection}{Nonincreasing Sequences}{14}{}%
+\contentsline {subsection}{\numberline {1.4.2}Probability of Unions, complements and intersections}{15}{}%
+\contentsline {subsection}{\numberline {1.4.3}Probability Measure}{15}{}%
+\contentsline {subsection}{\numberline {1.4.4}Conditional Probability}{15}{}%
+\contentsline {subsection}{\numberline {1.4.5}Random Variables}{16}{}%
+\contentsline {subsubsection}{Probability mass function}{16}{}%
+\contentsline {subsubsection}{Cumulative probability distributions}{17}{}%
+\contentsline {subsection}{\numberline {1.4.6}Expectation}{17}{}%
